@@ -51,4 +51,6 @@ This guide is presented solely for educational, and informational purposes. The 
 
 
 
-Update:  13 June Resolved dead links in README file
+
+
+Update: url is now operational and accessible
