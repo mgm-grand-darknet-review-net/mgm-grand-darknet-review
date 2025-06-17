@@ -53,4 +53,6 @@ This guide is presented solely for educational, and informational purposes. The 
 
 
 
-Update: url is now operational and accessible
+
+
+Update:  17 June Fixed dead link
