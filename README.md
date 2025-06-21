@@ -55,4 +55,6 @@ This guide is presented solely for educational, and informational purposes. The 
 
 
 
-Update:  17 June Fixed dead link
+
+
+Update:  06/21/2025 08-49 Secure URLs
