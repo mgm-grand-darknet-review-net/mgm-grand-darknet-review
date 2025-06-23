@@ -57,4 +57,6 @@ This guide is presented solely for educational, and informational purposes. The 
 
 
 
-Update:  06/21/2025 08-49 Secure URLs
+
+
+Update:  23.06.2025 url is back up and live
