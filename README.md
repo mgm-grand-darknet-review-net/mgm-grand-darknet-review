@@ -59,4 +59,6 @@ This guide is presented solely for educational, and informational purposes. The 
 
 
 
-Update:  23.06.2025 url is back up and live
+
+
+Update: Icon references
